@@ -1,0 +1,1 @@
+run commands `npm i -g solc truffle` and `npm install -g ganache-cli`
